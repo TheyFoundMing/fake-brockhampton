@@ -1,0 +1,33 @@
+#members .row {
+    padding: 0.5em;
+}
+
+.paragraph {
+    margin: 4em;
+}
+
+#carouselExampleIndicators h2 {
+    color: #FFFFFF;
+}
+
+#about footer p {
+    margin: 1em;
+}
+
+.btn_backtop {
+    margin: 1.5em;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.album-track {
+    padding-top: 15px;
+}
