@@ -4,8 +4,8 @@
 <head>
 
 <title>BROCKHAMPTON</title>
-<link rel="stylesheet" href="bootstrap.css">
 
+<link rel="stylesheet" type="text/css" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/style.css">
 
