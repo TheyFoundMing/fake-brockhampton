@@ -26,34 +26,15 @@
 
     <div class="navbar-collapse collapse" id="navbarColor01" >
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="members.html">Members</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="albums.html">Albums</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="tours.html">Tours</a>
-        </li>
-        <li class="nav-item active">
-            <a class="nav-link" href="catalog.html">Catalog<span class="sr-only">(current)</span></a>
-        </li>
+        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="members.html">Members</a></li>
+        <li class="nav-item"><a class="nav-link" href="albums.html">Albums</a></li></li>
+        <li class="nav-item"><a class="nav-link" href="tours.html">Tours</a></li>
+        <li class="nav-item active"><a class="nav-link" href="catalog.html">Catalog<span class="sr-only">(current)</span></a></li>
       </ul>
-      <form class="form-inline my-2 my-lg-0" action="http://www.randyconnolly.com/tests/process.php"
-      target="_blank" method="get">
-        <input class="form-control mr-sm-2" type="text"
-        name="submit_anything" value="" placeholder="Search">
-        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
-      </form>
     </div>
   </nav>
-
 
   <!-- Level 1 -->
   <div class="container-fluid">
