@@ -1,33 +1,91 @@
-#members .row {
-    padding: 0.5em;
-}
 
-.paragraph {
-    margin: 4em;
-}
-
-#carouselExampleIndicators h2 {
+#carouselExampleIndicators h1 {
+    position: relative;
+    bottom: 50px;
     color: #FFFFFF;
-}
-
-#about footer p {
-    margin: 1em;
-}
-
-.btn_backtop {
-    margin: 1.5em;
-    margin-right: 1.5em;
-    margin-left: 1.5em;
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
+    font-family: Helvetica, sans-serif;
+    font-size: 60px;
 }
 
 body {
+    font-family: 'Roboto', sans-serif;
+    color: #000000b5;
     overflow-x: hidden;
     overflow-y: auto;
+    background-color: #f7f7f9;
 }
 
 .album-track {
     padding-top: 15px;
+}
+
+.about {
+  background-color: white;
+  padding: 96px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+.about h1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 64px;
+  font-size: 56px;
+}
+
+.about p {
+  margin-bottom: 54px;
+}
+
+.members {
+  display: flex;
+  flex-direction: row;
+}
+
+#member-list {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 35px 0px 35px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding: 64px;
+  font-size: 40px;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  width: 130px;
+  border: 2px solid;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #2a2a2acc;
+}
+
+.member-info {
+  width: 550px;
+}
+
+.member-info h2 {
+  margin-bottom: 36px;
+}
+
+.go-up {
+  background-color: #e0e0e2;
+  position: fixed;
+  right: 40px;
+  top: 500px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+figure img {
+  border-radius: 10px;
 }
